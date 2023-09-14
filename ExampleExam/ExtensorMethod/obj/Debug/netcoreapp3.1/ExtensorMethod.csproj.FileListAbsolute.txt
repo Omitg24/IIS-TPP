@@ -1,0 +1,14 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\bin\Debug\netcoreapp3.1\ExtensorMethod.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\bin\Debug\netcoreapp3.1\ExtensorMethod.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\bin\Debug\netcoreapp3.1\ExtensorMethod.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\bin\Debug\netcoreapp3.1\ExtensorMethod.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\bin\Debug\netcoreapp3.1\ExtensorMethod.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\bin\Debug\netcoreapp3.1\ExtensorMethod.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\obj\Debug\netcoreapp3.1\ExtensorMethod.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\obj\Debug\netcoreapp3.1\ExtensorMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\obj\Debug\netcoreapp3.1\ExtensorMethod.AssemblyInfoInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\obj\Debug\netcoreapp3.1\ExtensorMethod.AssemblyInfo.cs
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\obj\Debug\netcoreapp3.1\ExtensorMethod.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\obj\Debug\netcoreapp3.1\ExtensorMethod.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\obj\Debug\netcoreapp3.1\ExtensorMethod.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\ExtensorMethod\obj\Debug\netcoreapp3.1\ExtensorMethod.genruntimeconfig.cache

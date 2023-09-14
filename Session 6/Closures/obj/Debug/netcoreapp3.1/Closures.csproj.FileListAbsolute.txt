@@ -1,0 +1,12 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\bin\Debug\netcoreapp3.1\Closures.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\bin\Debug\netcoreapp3.1\Closures.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\bin\Debug\netcoreapp3.1\Closures.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\bin\Debug\netcoreapp3.1\Closures.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\bin\Debug\netcoreapp3.1\Closures.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\bin\Debug\netcoreapp3.1\Closures.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\obj\Debug\netcoreapp3.1\Closures.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\obj\Debug\netcoreapp3.1\Closures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\obj\Debug\netcoreapp3.1\Closures.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\obj\Debug\netcoreapp3.1\Closures.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\obj\Debug\netcoreapp3.1\Closures.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 6\Closures\obj\Debug\netcoreapp3.1\Closures.genruntimeconfig.cache

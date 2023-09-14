@@ -1,0 +1,14 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\bin\Debug\netcoreapp3.1\BitcoinCounter.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\bin\Debug\netcoreapp3.1\BitcoinCounter.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\bin\Debug\netcoreapp3.1\BitcoinCounter.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\bin\Debug\netcoreapp3.1\BitcoinCounter.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\bin\Debug\netcoreapp3.1\BitcoinCounter.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\bin\Debug\netcoreapp3.1\BitcoinCounter.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\obj\Debug\netcoreapp3.1\BitcoinCounter.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\obj\Debug\netcoreapp3.1\BitcoinCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\obj\Debug\netcoreapp3.1\BitcoinCounter.AssemblyInfoInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\obj\Debug\netcoreapp3.1\BitcoinCounter.AssemblyInfo.cs
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\obj\Debug\netcoreapp3.1\BitcoinCounter.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\obj\Debug\netcoreapp3.1\BitcoinCounter.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\obj\Debug\netcoreapp3.1\BitcoinCounter.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\BitcoinCounter\obj\Debug\netcoreapp3.1\BitcoinCounter.genruntimeconfig.cache

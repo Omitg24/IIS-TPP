@@ -1,0 +1,30 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\bin\Debug\netcoreapp3.1\Queries.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\bin\Debug\netcoreapp3.1\Queries.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\bin\Debug\netcoreapp3.1\Queries.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\bin\Debug\netcoreapp3.1\Queries.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\bin\Debug\netcoreapp3.1\model.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\bin\Debug\netcoreapp3.1\model.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\obj\Debug\netcoreapp3.1\Queries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CopyComplete
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\obj\Debug\netcoreapp3.1\Queries.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\obj\Debug\netcoreapp3.1\Queries.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 8\Queries\obj\Debug\netcoreapp3.1\Queries.genruntimeconfig.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\bin\Debug\netcoreapp3.1\Queries.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\bin\Debug\netcoreapp3.1\Queries.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\bin\Debug\netcoreapp3.1\Queries.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\bin\Debug\netcoreapp3.1\Queries.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\bin\Debug\netcoreapp3.1\Model.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\obj\Debug\netcoreapp3.1\Queries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CopyComplete
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\obj\Debug\netcoreapp3.1\Queries.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\obj\Debug\netcoreapp3.1\Queries.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Queries\obj\Debug\netcoreapp3.1\Queries.genruntimeconfig.cache

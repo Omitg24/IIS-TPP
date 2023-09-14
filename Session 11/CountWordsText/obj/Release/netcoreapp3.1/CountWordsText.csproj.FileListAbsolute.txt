@@ -1,0 +1,14 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\bin\Release\netcoreapp3.1\CountWordsText.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\bin\Release\netcoreapp3.1\CountWordsText.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\bin\Release\netcoreapp3.1\CountWordsText.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\bin\Release\netcoreapp3.1\CountWordsText.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\bin\Release\netcoreapp3.1\CountWordsText.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\bin\Release\netcoreapp3.1\CountWordsText.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\obj\Release\netcoreapp3.1\CountWordsText.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\obj\Release\netcoreapp3.1\CountWordsText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\obj\Release\netcoreapp3.1\CountWordsText.AssemblyInfoInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\obj\Release\netcoreapp3.1\CountWordsText.AssemblyInfo.cs
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\obj\Release\netcoreapp3.1\CountWordsText.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\obj\Release\netcoreapp3.1\CountWordsText.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\obj\Release\netcoreapp3.1\CountWordsText.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 11\CountWordsText\obj\Release\netcoreapp3.1\CountWordsText.genruntimeconfig.cache

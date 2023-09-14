@@ -1,0 +1,42 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Convocatoria Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.genruntimeconfig.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Object Orientation\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.genruntimeconfig.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 2\Parameters\obj\Debug\netcoreapp3.1\Parameters.genruntimeconfig.cache

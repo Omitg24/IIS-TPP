@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bitcoin Context Switching/1.0.0": {
+        "runtime": {
+          "Bitcoin Context Switching.dll": {}
+        }
+      },
+      "Bitcoin Counter/1.0.0": {
+        "runtime": {
+          "Bitcoin Counter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bitcoin Context Switching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bitcoin Counter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

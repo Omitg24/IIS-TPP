@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Thread Creation": {
+      "commandName": "Project",
+      "commandLineArgs": "\"2\""
+    }
+  }
+}

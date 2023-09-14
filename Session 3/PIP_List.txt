@@ -1,0 +1,25 @@
+PRECONDICIONES:
+	- Add: El elemento no puede ser null.
+	- AddByIndex: El elemento no puede ser null.
+				  El índice no puede ser mayor al número de elementos.
+	- Remove: El elemento no puede ser null.
+			  La lista no puede estar vacía.
+	- GetElement: El indice no puede ser mayor o igual al número de elementos.
+	- SetElement: El indice no puede ser mayor al número de elementos.
+				  El elemento no puede ser null.
+	- IndexOf: El elemento no puede ser null.
+			   La lista no puede estar vacía.
+	- Contains: El elemento no puede ser null.
+				La lista no puede estar vacía.
+POSTCONDICIONES:
+	- Add: El elemento esta en la última posición.
+		   Se ha incrementado el número de elementos en 1.
+	- AddByIndex: El elemento se ha añadido en la posición correspondiente.
+				  Se ha incrementado el número de elementos en 1.
+	- Remove: Se ha reducido el número de elementos en 1.
+	- SetElement: El elemento que se encuentra en la posición del índice es el que se ha pasado por parámetro.
+	- Clear: La cabeza es null.
+			 El número de elementos es 0.
+INVARIANTES:
+	- No hay ningún elemento null.
+	- El número de elementos en la lista debe ser el mismo al tamaño de esta

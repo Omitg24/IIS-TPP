@@ -1,0 +1,12 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\bin\Debug\netcoreapp3.1\VectorModulus.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\bin\Debug\netcoreapp3.1\VectorModulus.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\bin\Debug\netcoreapp3.1\VectorModulus.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\bin\Debug\netcoreapp3.1\VectorModulus.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\bin\Debug\netcoreapp3.1\VectorModulus.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\bin\Debug\netcoreapp3.1\VectorModulus.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\obj\Debug\netcoreapp3.1\VectorModulus.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\obj\Debug\netcoreapp3.1\VectorModulus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\obj\Debug\netcoreapp3.1\VectorModulus.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\obj\Debug\netcoreapp3.1\VectorModulus.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\obj\Debug\netcoreapp3.1\VectorModulus.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\VectorModulus\obj\Debug\netcoreapp3.1\VectorModulus.genruntimeconfig.cache

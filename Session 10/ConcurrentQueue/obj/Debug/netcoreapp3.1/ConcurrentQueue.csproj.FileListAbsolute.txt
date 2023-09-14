@@ -1,0 +1,13 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\bin\Debug\netcoreapp3.1\ConcurrentQueue.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\bin\Debug\netcoreapp3.1\LinkedList.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\bin\Debug\netcoreapp3.1\LinkedList.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.AssemblyInfoInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.AssemblyInfo.cs
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.csproj.CopyComplete
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ConcurrentQueue\obj\Debug\netcoreapp3.1\ConcurrentQueue.pdb

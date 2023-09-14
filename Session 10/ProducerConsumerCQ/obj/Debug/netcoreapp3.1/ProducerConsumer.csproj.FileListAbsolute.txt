@@ -1,0 +1,13 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.dll.config
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 10\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.genruntimeconfig.cache

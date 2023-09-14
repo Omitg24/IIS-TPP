@@ -1,0 +1,12 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\bin\Debug\netcoreapp3.1\Process Thread.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\bin\Debug\netcoreapp3.1\Process Thread.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\bin\Debug\netcoreapp3.1\Process Thread.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\bin\Debug\netcoreapp3.1\Process Thread.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\bin\Debug\netcoreapp3.1\Process Thread.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\bin\Debug\netcoreapp3.1\Process Thread.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\obj\Debug\netcoreapp3.1\Process Thread.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\obj\Debug\netcoreapp3.1\Process Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\obj\Debug\netcoreapp3.1\Process Thread.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\obj\Debug\netcoreapp3.1\Process Thread.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\obj\Debug\netcoreapp3.1\Process Thread.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\Process Thread\obj\Debug\netcoreapp3.1\Process Thread.genruntimeconfig.cache

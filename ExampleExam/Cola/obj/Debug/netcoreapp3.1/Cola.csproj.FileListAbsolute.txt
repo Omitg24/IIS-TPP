@@ -1,0 +1,17 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\bin\Debug\netcoreapp3.1\Cola.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\bin\Debug\netcoreapp3.1\Cola.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\bin\Debug\netcoreapp3.1\Cola.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\bin\Debug\netcoreapp3.1\Cola.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\bin\Debug\netcoreapp3.1\Cola.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\bin\Debug\netcoreapp3.1\Cola.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.AssemblyInfoInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.AssemblyInfo.cs
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.genruntimeconfig.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\bin\Debug\netcoreapp3.1\LinkedList.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\bin\Debug\netcoreapp3.1\LinkedList.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\ExampleExam\Cola\obj\Debug\netcoreapp3.1\Cola.csproj.CopyComplete

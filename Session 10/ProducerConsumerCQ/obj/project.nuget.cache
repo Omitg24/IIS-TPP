@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F41QELmxH7ocs044Pow5+6eGbEi0MN9H0J3O7cY9gM+t+CbSUIRLibX6OiqnWTs4eCpcMOG6dka7hryc/prUag==",
+  "success": true,
+  "projectFilePath": "D:\\Clase\\Ingeniería Informática\\Segundo\\Segundo_Semestre\\Tecnología y Paradigmas de Programación\\Extraordinaria\\Session 10\\ProducerConsumerCQ\\ProducerConsumerCQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omart\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\omart\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

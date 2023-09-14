@@ -1,0 +1,14 @@
+PRECONDICIONES:
+	- Constructor: El número máximo de elementos no puede ser 0.
+	- Push: El elemento no puede ser null.
+	- Pop: La pila no puede estar vacía.
+
+POSTCONDICIONES:
+	- Constructor: La pila debe de estar vacía.
+	- Push: La pila no puede estar vacía.
+	- Pop: La pila no puede estar llena.
+
+INVARIANTES:	
+	- La pila no puede estar vacía y llena al mismo tiempo.
+	- No hay ningún elemento null.
+	- El número de elementos no puede superar al número máximo de elementos.

@@ -1,0 +1,12 @@
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\bin\Debug\netcoreapp3.1\ThreadCreation.exe
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\bin\Debug\netcoreapp3.1\ThreadCreation.deps.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\bin\Debug\netcoreapp3.1\ThreadCreation.runtimeconfig.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\bin\Debug\netcoreapp3.1\ThreadCreation.runtimeconfig.dev.json
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\bin\Debug\netcoreapp3.1\ThreadCreation.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\bin\Debug\netcoreapp3.1\ThreadCreation.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\obj\Debug\netcoreapp3.1\ThreadCreation.csproj.AssemblyReference.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\obj\Debug\netcoreapp3.1\ThreadCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\obj\Debug\netcoreapp3.1\ThreadCreation.csproj.CoreCompileInputs.cache
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\obj\Debug\netcoreapp3.1\ThreadCreation.dll
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\obj\Debug\netcoreapp3.1\ThreadCreation.pdb
+D:\Clase\Ingeniería Informática\Segundo\Segundo_Semestre\Tecnología y Paradigmas de Programación\Extraordinaria\Session 9\ThreadCreation\obj\Debug\netcoreapp3.1\ThreadCreation.genruntimeconfig.cache
